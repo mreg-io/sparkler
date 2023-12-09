@@ -3,5 +3,6 @@
 resolver = "2"
 members = [
     "sparkler",
-    "sparkler-codegen"
+    "sparkler-codegen",
+    "sparkler-test",
 ]
